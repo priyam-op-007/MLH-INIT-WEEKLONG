@@ -1,4 +1,5 @@
 # Reminder-App
+
 This is a basic reminder app which takes in data(Date, Time and Message) from the user and notifies the user on the given date and time.
 <br><br>
 In this app, I have used ***Room Database*** for storing the data of the reminders. The user is being notified by a notification which contains the message entered by the user. 
